@@ -7,6 +7,7 @@ import AboutUs from './AboutUs';
 import Testimonios from './Testimonios';
 import Tutoriales from './Tutoriales';
 import Footer from './components/Footer';
+import Contacto from './Contacto';
 import { Toaster } from 'react-hot-toast';
 
 export default function App() {
@@ -20,6 +21,7 @@ export default function App() {
         <Estadisticas />
         <Testimonios />
         <Tutoriales />
+        <Contacto />
       </main>
       <Footer />
       <Toaster position="top-center" />
