@@ -9,9 +9,9 @@ export default function Navbar() {
   // Enlaces actualizados para coincidir con las secciones de tu página
   const navLinks = [
     { name: "Inicio", href: "#inicio" },
-    { name: "Productos", href: "#productos" },
-    { name: "Tutoriales", href: "#tutoriales" },
     { name: "Nosotros", href: "#nosotros" },
+    { name: "Productos", href: "#productos" },
+    { name: "Tutoriales", href: "#tutoriales" }, 
     { name: "Testimonios", href: "#testimonios" },
     { name: "Contacto", href: "#contacto" },
   ];

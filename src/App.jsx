@@ -8,6 +8,8 @@ import Testimonios from './Testimonios';
 import Tutoriales from './Tutoriales';
 import Footer from './components/Footer';
 import Contacto from './Contacto';
+import Nosotros from './Nosotros';
+import RssGenerator from './RssSubscribe';
 import { Toaster } from 'react-hot-toast';
 
 export default function App() {
@@ -16,12 +18,14 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
+        <Nosotros />
         <AboutUs />
         <Productos />
         <Estadisticas />
         <Testimonios />
         <Tutoriales />
         <Contacto />
+        <RssGenerator /> 
       </main>
       <Footer />
       <Toaster position="top-center" />

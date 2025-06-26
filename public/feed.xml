@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss-style.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Belleza Glam - Noticias y Tutoriales de Maquillaje]]></title>
+    <link>https://www.tusitio.com</link>
+    <description><![CDATA[Las últimas noticias, tutoriales y productos de Belleza Glam]]></description>
+    <language>es-es</language>
+    <copyright>Copyright © 2024 Belleza Glam</copyright>
+    <atom:link href="https://www.tusitio.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.tusitio.com/logo.png</url>
+      <title><![CDATA[Belleza Glam - Noticias y Tutoriales de Maquillaje]]></title>
+      <link>https://www.tusitio.com</link>
+    </image>
+
+
+    <!-- Nuevos ítems con links reales -->
+
+    <item>
+      <title><![CDATA[Tutorial: cómo aplicar base correctamente para una piel natural]]></title>
+      <link>https://bienbonita.com/2021/07/02/tutoriales-de-maquillaje-como-aplicar-base-correctamente-para-lucir-la-piel-natural/</link>
+      <description><![CDATA[Guía completa paso a paso: preparación, elección de base y técnicas con brocha, esponja o polvo.]]></description>
+      <pubDate>Fri, 02 Jul 2021 18:14:00 GMT</pubDate>
+      <guid isPermaLink="false">bellezaglam-tutoriales-101</guid>
+      <category><![CDATA[Tutoriales]]></category>
+    </item>
+
+    <item>
+      <title><![CDATA[Cómo crear una base de maquillaje perfecta (limpieza al primer)]]></title>
+      <link>https://comfortzoneskin.es/blog/noticias/como-crear-una-base-de-maquillaje-perfecta-de-la-limpieza-al-primer</link>
+      <description><![CDATA[Tutorial centrado en preparación facial: limpieza profunda, primer y selección de productos.]]></description>
+      <pubDate>Mon, 20 Dec 2022 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bellezaglam-tutoriales-102</guid>
+      <category><![CDATA[Tutoriales]]></category>
+    </item>
+
+    <item>
+      <title><![CDATA[Técnicas profesionales: Cómo aplicar base como una maquilladora]]></title>
+      <link>https://paulaordovas.com/guias/como-aplicar-base-de-maquillaje-como-una-profesional/</link>
+      <description><![CDATA[Técnicas profesionales con esponja, brocha y dedos para un acabado impecable.]]></description>
+      <pubDate>Wed, 04 Jan 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bellezaglam-tutoriales-103</guid>
+      <category><![CDATA[Tutoriales]]></category>
+    </item>
+
+    <item>
+      <title><![CDATA[La Mejor Rutina De Base – Maquillaje Con Efecto FILTRO (YouTube)]]></title>
+      <link>https://www.youtube.com/watch?v=mmNMIcT_vuo</link>
+      <description><![CDATA[Rutina completa para aplicar base y lograr un efecto de piel con filtro.]]></description>
+      <pubDate>Tue, 13 Feb 2024 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bellezaglam-video-001</guid>
+      <category><![CDATA[Video]]></category>
+    </item>
+
+    <item>
+      <title><![CDATA[COMO APLICAR BASE DE MAQUILLAJE CORRECTAMENTE (NO GRUMOSA)]]></title>
+      <link>https://www.youtube.com/watch?v=Zj0lZrh0LDk</link>
+      <description><![CDATA[Consejos esenciales para evitar grumos y obtener un acabado uniforme.]]></description>
+      <pubDate>Sun, 17 Mar 2024 11:45:00 GMT</pubDate>
+      <guid isPermaLink="false">bellezaglam-video-002</guid>
+      <category><![CDATA[Video]]></category>
+    </item>
+
+  </channel>
+</rss>
