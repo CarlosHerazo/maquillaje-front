@@ -9,7 +9,7 @@ export default function Licencia() {
             href="https://maquillaje-front.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-pink-600 hover:underline font-medium"
+            className="text-white hover:underline font-medium"
           >
             BellezaGlam
           </a>{' '}
@@ -18,19 +18,19 @@ export default function Licencia() {
             href="https://maquillaje-front.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-pink-600 hover:underline font-medium"
+            className="text-white hover:underline font-medium"
           >
             Yailín Cuadrado
           </a>
         </p>
 
-        <p className="text-sm text-rose-500 flex items-center justify-center gap-1 flex-wrap">
+        <p className="text-sm text-rose-200 flex items-center justify-center gap-1 flex-wrap">
           Está licenciado bajo una{' '}
           <a
             href="https://creativecommons.org/licenses/by/4.0/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-rose-600 hover:underline font-medium"
+            className="text-rose-300 hover:underline font-medium"
           >
             Licencia Creative Commons Atribución 4.0 Internacional
           </a>
