@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaInstagram, FaFacebook, FaTiktok, FaPinterest } from 'react-icons/fa';
+import Licencia from '../Licencia';
 
 export default function Footer() {
   return (
@@ -35,7 +36,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-rose-700 mt-8 pt-8 text-center text-rose-300">
-          <p>© {new Date().getFullYear()} Belleza Glam. Todos los derechos reservados.</p>
+          <Licencia />
         </div>
       </div>
     </footer>
